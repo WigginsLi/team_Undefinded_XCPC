@@ -29,8 +29,9 @@ O 代表赛后AC
 × 代表题目/标程有问
 
 
+> [2020 GDUT_group](http://codeforces.com/group/5yyKg9gx7m/contests)
 
 | date     | contest             | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    |
 | -------- | ------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 20/05/16 | GDUT_TeamUpTrain II | √    |      |      |      |      |      | √    | √    | ·    |      |      | -    | -    | -    |
 | 20/05/12 | GDUT_TeamUpTrain I  | √    | √    | √    | O    | O    | √    | √    | O    | √    | O    |      | -    | -    | -    |
-| 20/05/16 | GDUT_TeamUpTrain II | √    |      |      |      |      |      | √    | √    |      |      |      | -    | -    | -    |
