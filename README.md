@@ -33,8 +33,9 @@ O 代表赛后AC
 
 | date     | contest              | A    | B    | C    | D    | E    | F    | G    | H    | I    | J    | K    | L    | M    | N    |
 | -------- | -------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 20/06/02 | GDUT_TeamUpTrain VI  |      | O    | √    |      | √    |      |      |      |      |      |      | -    | -    | -    |
 | 20/05/26 | GDUT_TeamUpTrain V   |O     |      | O    |      |      |      |      |      |      |      | O    | -    | -    | -    |
-| 20/05/23 | GDUT_TeamUpTrain IV  |      |      |      |      |      | √    | O    | √    | √    |      | √    | -    | -    | -    |
+| 20/05/23 | GDUT_TeamUpTrain IV  |      |      |      |      |      | √    | O    | √    | √    |      | I    | -    | -    | -    |
 | 20/05/19 | GDUT_TeamUpTrain III | √    |      | O    |      |      |      |      |      |      | √    | O    |      | -    | -    |
 | 20/05/16 | GDUT_TeamUpTrain II  | √    |      |      |      |      |      | √    | √    | ·    |      |      | -    | -    | -    |
 | 20/05/12 | GDUT_TeamUpTrain I   | √    | √    | √    | O    | O    | √    | √    | O    | √    | O    |      | -    | -    | -    |
